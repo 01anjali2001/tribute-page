@@ -1,0 +1,44 @@
+* {
+    margin: 30px auto: 20px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+body,
+html {
+    height: 100%;
+}
+
+.bg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+.name {
+    text-align: center;
+    justify-content: center;
+    background-position: 100px;
+    margin-top: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+    color: rgb(140, 22, 22);
+}
+
+.name1 {
+    font-size: 50px;
+    background-position: center;
+}
+
+.DOB {
+    font-size: 30px;
+    background-position: 100px;
+    color: rgb(217, 10, 10);
+}
+
+.para {
+    font-size: 30px;
+    color: rgba(227, 17, 139, 0.998);
+    opacity: 1;
+}
